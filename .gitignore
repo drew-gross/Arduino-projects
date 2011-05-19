@@ -1,0 +1,11 @@
+*.exe
+*.lnk
+arduino-0018/*
+arduino-0017/*
+*.o
+*.hex
+*.elf
+processing-1.0.9/*
+*.eep
+*.user
+*.obj
